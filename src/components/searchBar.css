@@ -1,0 +1,10 @@
+input {
+  border: 1px solid gray;
+  padding: 10px;
+  font-size: 15px;
+  width: 80%;
+}
+.container {
+  border: 1px solid gray;
+  padding: 10px 20px;
+}
